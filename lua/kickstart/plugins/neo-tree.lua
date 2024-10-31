@@ -18,6 +18,7 @@ return {
       window = {
         mappings = {
           ['<leader>n'] = 'close_window',
+          ['Z'] = 'expand_all_nodes',
         },
       },
     },
