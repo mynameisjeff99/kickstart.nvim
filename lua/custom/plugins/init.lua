@@ -46,6 +46,8 @@ return {
     end,
   },
   {
-    'rebelot/kanagawa.nvim'
-  }
+    'akinsho/toggleterm.nvim',
+    version = "*",
+    config = true
+  },
 }
